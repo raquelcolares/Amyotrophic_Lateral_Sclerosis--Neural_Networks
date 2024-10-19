@@ -5,8 +5,12 @@
     <img width="300" src="https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis--Neural_Networks/blob/main/ALS.jpg">
 </p>
 
-- **Project**
+- **Project:**
       [Amyotrophic Lateral Sclerosis & Neural Networks](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis-Neural_Networks/blob/main/Amyotrophic%20Lateral%20Sclerosis%20(ALS).ipynb)
+
+- **Dataset:**
+      [Amyotrophic Lateral Sclerosis Dataset](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis--Neural_Networks/blob/main/Minsk2020_ALS_dataset.xls)
+  
 
 Amyotrophic Lateral Sclerosis (ALS) is a neurological disorder that affects motor neurons, the nerve cells in the brain and spinal cord that control voluntary muscle movement and breathing accoridng to the National Institute of Neurological Disorders and Stroke.
 
