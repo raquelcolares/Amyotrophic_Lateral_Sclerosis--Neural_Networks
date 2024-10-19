@@ -5,6 +5,9 @@
     <img width="300" src="https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis--Neural_Networks/blob/main/ALS.jpg">
 </p>
 
+- **Project**
+      [Amyotrophic Lateral Sclerosis & Neural Networks](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis-Neural_Networks/blob/main/Amyotrophic%20Lateral%20Sclerosis%20(ALS).ipynb)
+
 Amyotrophic Lateral Sclerosis (ALS) is a neurological disorder that affects motor neurons, the nerve cells in the brain and spinal cord that control voluntary muscle movement and breathing accoridng to the National Institute of Neurological Disorders and Stroke.
 
 On this disease the motor neurons degenerate and die, which means they stop sending messages to the muscles. The muscles get weaker until they atrophy. Patients with Amyotrophic Lateral Sclerosis lose their ability to control voluntary movements such as chewing, walking, talking, breathing and others, progressive over time.
