@@ -6,7 +6,7 @@
 </p>
 
 - **Project:**
-      [Amyotrophic Lateral Sclerosis & Neural Networks](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis-Neural_Networks/blob/main/Amyotrophic%20Lateral%20Sclerosis%20(ALS).ipynb)
+      [Amyotrophic Lateral Sclerosis & Neural Networks](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis--Neural_Networks/blob/main/Amyotrophic%20Lateral%20Sclerosis%20(ALS).ipynb)
 
 - **Dataset:**
       [Amyotrophic Lateral Sclerosis Dataset](https://github.com/raquelcolares/Amyotrophic_Lateral_Sclerosis--Neural_Networks/blob/main/Minsk2020_ALS_dataset.xls)
